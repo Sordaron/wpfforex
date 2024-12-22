@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpfforex", "wpfforex\wpfforex.csproj", "{255C8FC8-1E2D-4949-8FDF-34B27F78D33E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{255C8FC8-1E2D-4949-8FDF-34B27F78D33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255C8FC8-1E2D-4949-8FDF-34B27F78D33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255C8FC8-1E2D-4949-8FDF-34B27F78D33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255C8FC8-1E2D-4949-8FDF-34B27F78D33E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0047A6C8-9B3A-4D8D-AD17-C1D5C1234FEB}
+	EndGlobalSection
+EndGlobal
